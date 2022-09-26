@@ -29,7 +29,7 @@ setup(
         },
 
     install_requires = [
-        'setuptools',
+        'setuptools == 58.2.0',
         'PyCrypto',
         'Twisted',
         'argparse',
